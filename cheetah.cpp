@@ -11,7 +11,7 @@ int cheetah (int money){
     }
     return x;
 }
-int main(){
+int main(){ 
     cout << cheetah(20)<<endl;
     cout << cheetah(35)<<endl;
     cout << cheetah(101)<<endl;
